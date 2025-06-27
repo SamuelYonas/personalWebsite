@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-family: 'Open Sans', "sans-serif";
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+header{
+    background-color: rgb(175, 224, 255);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
